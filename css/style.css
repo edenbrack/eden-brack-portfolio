@@ -154,6 +154,11 @@ a{
 a:hover {
    color: #3158A3}
 
+/* Grid */
+.grid {
+	display: grid;
+	grid-template-columns: 2;
+	padding: 5px;
 /* Images & Media
 _________________________________________________*/
 img{
