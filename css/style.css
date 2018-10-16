@@ -159,6 +159,12 @@ a:hover {
 	display: grid;
 	grid-template-columns: auto auto;
 	padding: 5px;
+}
+
+.portfolio {
+	background-color: green;
+}
+
 /* Images & Media
 _________________________________________________*/
 img{
