@@ -51,6 +51,7 @@ body{
 	font-weight: 400;
 	background-color: #FFF;
 	text-transform: lowercase;
+	margin: 0 60px;
 }
 
 .black {
@@ -158,7 +159,7 @@ a:hover {
 .grid {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	padding: 5px;
+	grid-gap: 10px;
 }
 
 .portfolio {
