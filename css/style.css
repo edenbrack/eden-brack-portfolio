@@ -120,7 +120,7 @@ header {
 
 .logo{
 	max-height: 150px;
-    padding-top: 20px;
+    	padding-top: 20px;
 	clear: left;
 	width: auto;
 	float: none;
@@ -157,7 +157,7 @@ a:hover {
 /* Grid */
 .grid {
 	display: grid;
-	grid-template-columns: auto auto;
+	grid-template-columns: 1fr 1fr;
 	padding: 5px;
 }
 
