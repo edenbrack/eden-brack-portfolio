@@ -115,10 +115,16 @@ li{color: #000;}
 /* Header & Navigation
 _________________________________________________*/
 header {
-	display: block;
-	text-align: center;
+	display: flex;
 }
 
+.inline {
+	flex:auto;
+}
+
+.menu {
+	text-align: right;
+}
 .logo{
 	max-height: 150px;
     	padding-top: 20px;
