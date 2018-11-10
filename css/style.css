@@ -134,8 +134,7 @@ header {
 }
 
 .title {
-	display: inline;
-	vertical-align: top;
+	display: inline-block;
 	color: black;
 	top: 30px;
 }
