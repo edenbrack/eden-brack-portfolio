@@ -65,6 +65,7 @@ h1{
 	font-family: 'Quicksand', "Century Gothic", CenturyGothic, "Apple Gothic", AppleGothic, "URW Gothic L", "Avant Garde", sans-serif;
 	font-size: 20px;
 	font-weight: 100;
+	margin: 0;
 }
 
 h2 {
@@ -119,6 +120,7 @@ li{color: #000;}
 _________________________________________________*/
 header {
 	display: flex;
+	padding-bottom: 10px;
 }
 
 .inline {
