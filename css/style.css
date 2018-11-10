@@ -29,7 +29,10 @@ _________________________________________________*/
 .lefttext{text-align: right}
 
 .header{background-color: #FFF;}
-#nav{color: black;}
+#nav{
+	color: black;
+	display: inline;
+}
 .inmode{background-color: #3158A3;}
 /*#inmodetext{padding-top: 6%}*/
 .sociall{background-color: #FCB841;}
